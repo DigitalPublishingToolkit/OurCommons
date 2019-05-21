@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
+Pr-id: Our Commons
+P-id: Miscelanea
 A-id: 10
 Type: article
-Book-type: anthology
+Book-type: bundle
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Ostrom in the City
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Sheila R. Foster, Christian Iaione
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -16,6 +16,9 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+
+![](imgs/Ch_3_Re_claiming_cities.jpg)
+Reclaiming Cities
 
 # 7. Ostrom in the City: Design Principles and Practices for the Urban Commons
 
@@ -25,7 +28,7 @@ by Sheila R. Foster & Christian Iaione
 Design Principles and Practices for the Urban Commons’ by Sheila R.
 Foster and Christian Iaione, published in the Routledge Handbook of the
 Study of the Commons, edited by Blake Hudson, Jonathan Rosenboom and Dan
-Cole (Routledge 2019)^32^.*
+Cole (Routledge 2019).^32^*
 
 ## Introduction
 
@@ -35,7 +38,7 @@ they have become sites of contestation over use and access to urban
 land, open space, infrastructure, and culture. The question posed by
 Saskia Sassen in a recent essay — who owns the city? — is arguably at
 the root of these contestations and of social movements that resist the
-enclosure of cities by economic elites^1^. One answer to the question of
+enclosure of cities by economic elites.^1^ One answer to the question of
 who owns the city is that we all do. In our work we argue that the city
 is a common good or a “commons” — a shared resource that belongs to all
 of its inhabitants, and to the public more generally.
@@ -44,10 +47,10 @@ We have been writing about the urban commons for the last decade, very
 much inspired by the work of Jane Jacobs and Elinor Ostrom. The idea of
 the urban commons captures the ecological view of the city that
 characterizes Jane Jacobs classic work, The Death and Life of Great
-American Cities^2^. It also builds on Elinor Ostrom’s finding that
+American Cities.^2^ It also builds on Elinor Ostrom’s finding that
 common resources are capable of being collectively managed by users in
 ways that support their needs yet sustains the resource over the long
-run^3^.
+run.^3^
 
 Jacobs analyzed cities as complex, organic systems and observed the
 activity within them at the neighborhood and street level, much like an
@@ -61,8 +64,8 @@ destruction of physical neighborhoods, but also on the destruction of
 the “irreplaceable social capital” — the networks of residents who build
 and strengthen working relationships over time through trust and
 voluntary cooperation — necessary for “self governance” of urban
-neighborhoods^4^. As political scientist Douglas Rae has written, this
-social capital is the “civic fauna” of urbanism^5^.
+neighborhoods.^4^ As political scientist Douglas Rae has written, this
+social capital is the “civic fauna” of urbanism.^5^
 
 > Jacobs analyzed cities as complex, organic systems and observed the
 > activity within them at the neighborhood and street level, much like
@@ -73,14 +76,14 @@ This social capital — the norms and networks of trust and voluntary
 cooperation — is also at the core of urban “commoning.” The term
 commoning, popularized by historian Peter Linebaugh, captures the
 relationship between physical resources and the communities that live
-near them, to utilize and depend upon them for essential human needs^6^.
+near them, to utilize and depend upon them for essential human needs.<super>6</super>
 In other words, much of what gives a particular urban resource its
 value, and normative valence, is the function of the human activity and
 social network in which the resource is situated. As such, disputes over
 the destruction or loss of community gardens, of open and green spaces,
 and of spaces for small scale commercial and artistic activity are
 really disputes about the right to access and use (or share) urban
-resources to provide goods necessary for human flourishing^7^.
+resources to provide goods necessary for human flourishing.^7^
 
 The urban commons framework thus raises the question to which Elinor
 Ostrom’s groundbreaking work provides an intriguing answer. Ostrom
@@ -105,15 +108,15 @@ referred to this kind of decision making as “polycentric” to capture the
 idea that while the government remains an essential player in
 facilitating, supporting, and even supplying the necessary tools to
 govern shared resources, the government is not the monopoly decision
-maker^8^. Polycentric systems have multiple governing entities or
+maker.^8^ Polycentric systems have multiple governing entities or
 authorities at different scales and each governing unit has a high
-degree of independence to make norms and rules within its own domain^9^.
+degree of independence to make norms and rules within its own domain.^9^
 Polycentric systems also can unlock what she called “public
 entrepreneurship”— opening the public sector to innovation in providing,
 producing, and encouraging the co-production of essential goods and
 services at the local level. Public entrepreneurship often involves
 putting heterogenous processes together in complementary and effective
-ways^10^.
+ways.^10^
 
 As such, our work has explored whether the commons can be a framework
 for addressing a host of internal and external resource challenges
@@ -136,12 +139,12 @@ resources and more traditional commons in important ways. This is why,
 starting ten years ago, we both began to explore the governance of the
 urban commons as a separate body of study. First, investigating
 individually how different kinds of urban assets such as community
-gardens, parks, neighborhoods^11-2^ and urban infrastructure such as
-urban roads^12^ could be reconceived as urban commons, and later jointly
-to conceive the whole city as a commons^7^. We realized that we needed a
+gardens, parks, neighborhoods and urban infrastructure such as
+urban roads could be reconceived as urban commons, and later jointly
+to conceive the whole city as a commons.^11,12^ We realized that we needed a
 different approach to bridge urban studies and commons studies and
 therefore to pose a slightly different set of questions for the
-governance of the urban commons^13^. We also needed to define a
+governance of the urban commons.^13^ We also needed to define a
 different set of design principles for the management of urban commons
 in the city and the city itself as a commons.
 
@@ -150,7 +153,7 @@ in the city and the city itself as a commons.
 > people.
 
 For this reason, we have been surveying and mapping 100+ cities around
-the world and 200+ examples of urban commons within them^14^. The goal
+the world and 200+ examples of urban commons within them.^14^ The goal
 of this research project is to enhance our collective knowledge about
 the various ways to govern urban commons, and the city itself as a
 commons, in different geographic, social and economic contexts. From
@@ -175,26 +178,26 @@ to design effective rules, norms and institutions for resource
 stewardship and governance. Indeed, “the city analog to placing an
 additional cow on the commons is the decision to locate one’s firm or
 household, along with the privately owned structure that contains it, in
-a particular position within an urban area.”^15^. Congestion and
+a particular position within an urban area.”^15^ Congestion and
 overconsumption of city space can quickly result in rivalrous conditions
 in which one person’s use of space subtracts from the benefits of that
 space for others. For instance, different kinds of urban infrastructure
 (roads, telecommunications systems, water systems, parks) otherwise
 considered to be a nonrivalrous public good can become rivalrous either
-through increased demand^16^ or because of regulatory slippage^11^.
+through increased demand or because of regulatory slippage.^16^
 
 In addition to more traditional concerns about congestion and rivalry,
 the openness of cities also raises the question of distribution in the
 commons. Many contestations of city space and resources revolve around
 the question of how best to “share” the finite resources of the city
-among a variety of users and uses^7^. To be sure, distributive concerns
+among a variety of users and uses.<super>7</super> To be sure, distributive concerns
 fall outside of the considerations that motivated Garret Hardin’s
 Tragedy of the Commons — i.e., consuming resources beyond the point
 where they benefit anyone and in fact reduce the overall benefit of the
-resource for everyone^17^. But Ostrom’s institutional approach to
+resource for everyone.^17^ But Ostrom’s institutional approach to
 managing shared resources applies to a much broader range of human
 behavior and social dilemmas than avoiding suboptimal results from the
-cumulative actions of rational actors^18^. Ostrom’s work generated an
+cumulative actions of rational actors.^18^ Ostrom’s work generated an
 approach that can be used in the analysis and design of effective
 institutions (or instruments) to manage not just common pool resources
 but many different types of shared resources.
@@ -204,14 +207,14 @@ institutional analysis and development (IAD) approach, is as much a
 reference to community management or governance of shared resources as
 it is to the nature of the resource itself. “The basic characteristic
 that distinguishes commons from noncommons is institutionalized sharing
-of resources among members of a community”^19^. As such, it is not
+of resources among members of a community”.^19^ As such, it is not
 surprising to see the emergence of “new” commons — or nontraditional
 common pool resources — such as knowledge commons, cultural commons,
-infrastructure commons, neighborhood commons, among others^20^. These
+infrastructure commons, neighborhood commons, among others.^20^ These
 new commons seek to provide an alternative to the private/public
 (government) binary of governance solutions. These new kinds of commons
 focus on “communities working together in self-governing ways to protect
-resources from enclosure or to build newly open-shared resources”^20^.
+resources from enclosure or to build newly open-shared resources”.^20^
 
 It is tempting, in asking whether shared urban resources (including the
 city itself) can be governed by local communities working together, to
@@ -261,12 +264,12 @@ not exhaustible nor nonrenewable, although they can become quite fragile
 over time due to internal and external threats. There are, of course,
 natural resources such as lakes, rivers, trees, and wetlands in urban
 environments that can be rendered quite vulnerable by rapid
-urbanization, migration, and landscape change^21^.
+urbanization, migration, and landscape change.^21^
 
 Because they resemble in most ways traditional common pool resources,
 researchers have approached the possibility for collective governance
 and polycentric management of these “urban commons” in a similar
-fashion^22^. However, much of the city consists of built urban
+fashion.^22^ However, much of the city consists of built urban
 infrastructure — open squares, parks, buildings, land, streets, roads
 and highways — which can be purposed and repurposed for different uses
 and users. In this way, these resources —the kind of “urban commons” to
@@ -276,38 +279,38 @@ of Elinor Ostrom’s study of common pool resource governance.
 
 Second, cities and many of their resources are what we might call
 “constructed” commons, the result of emergent social processes and
-institutional design^23^. As with knowledge commons, the urban commons
+institutional design.^23^ As with knowledge commons, the urban commons
 often require the creation of governance or management structures that
 allow for not only the sharing of existing resources but also the
 production of new resources which will be shared by a group or community
-of actors^23^. The process of constructing a commons — what some refer
+of actors.^23^ The process of constructing a commons — what some refer
 to as “commoning” — involves a collaborative process of bringing
-together a wide spectrum of actors that work together^25^ to co-design
+together a wide spectrum of actors that work together to co-design
 and co-produce shared, common goods and services at different
-scales^24^. They can be created at the scale of the city, the district,
+scales.^24,25^ They can be created at the scale of the city, the district,
 the neighborhood, or the block level.
 
 Third, cities do not exist in a pre-political space. Rather, cities are
 heavily regulated environments and thus any attempt to bring the commons
-to the city must confront the law and politics of the city^11^. Managing
+to the city must confront the law and politics of the city.^11^ Managing
 and creating urban common resources most often requires changing or
 tweaking (or even hacking, in a sense) the regulation of public and
 private property and working through the administrative branches of
 local government to enable and/or protect collaborative forms of
 resource management. Legal and property experimentation is thus a core
-feature of constructing different kinds of urban commons^26^.
+feature of constructing different kinds of urban commons.^26^
 
 Fourth, cities are incredibly complex and socially diverse systems which
 bring together not only many different types of resources but also many
-types of people^27^. Because of this diversity and the presence of often
+types of people.^27^ Because of this diversity and the presence of often
 thick local (and sublocal) politics, social and economic tensions and
 conflicts occur at a much higher rate and pace than many natural
 environments. The economic and political complexity of cities also means
 that governance of urban commons cannot be just about communities
 governing themselves. Rather, collective governance of urban commons
 almost always involves some forms of nested governance — perhaps
-involving other levels of government^28^ — and in most cases cooperation
-with other urban actors and sectors.
+involving other levels of government — and in most cases cooperation
+with other urban actors and sectors.^28^
 
 ## Design Principles for the Urban Commons
 
@@ -356,8 +359,8 @@ negotiate with market actors.
 In both cases, the concept of “pooling” seems to capture the true
 essence of commons-based projects and policies in the urban environment.
 For these reasons, we have identified in our work two core principles
-underlying many kinds of urban commons as an enabling state^11^ and
-pooling economies^29^.
+underlying many kinds of urban commons as an enabling state and
+pooling economies.^11,29^
 
 We also observed for instance that technology in cities plays a key role
 in enabling collaboration and sustainability, as well as pooling users
@@ -370,10 +373,10 @@ prototyping, monitoring and evaluation.
 
 These basic empirical observations are now the cornerstone of a much
 larger and scientifically driven research project that we established
-and call the “Co-Cities Project.” The idea of the “Co-City”^30^ is based
+and call the “Co-Cities Project.” The idea of the “Co-City” is based
 on five basic design principles, or dimensions, extracted from our
 practice in the field and the cases that we identified as sharing
-similar approaches, values and methodologies. While some of these design
+similar approaches, values and methodologies.^30^ While some of these design
 principles resonate with Ostrom’s principles, they are each adapted to
 the context of the urban commons and the realities of constructing
 common resources in the city. We have distilled five key design
@@ -436,7 +439,7 @@ and sustaining the co-city.
 
 The ultimate goal of a co-city, we believe, is the creation of a more
 just and democratic city, consistent with the Lefebvrian approach of the
-right to the city^7^.
+right to the city.^7^
 
 ## Conclusion
 
@@ -446,8 +449,8 @@ existing and created, are being managed or governed by local communities
 in a cooperative fashion with other actors and often enabled by
 government bodies and officials. The five design principles, and some of
 the mechanisms through which they manifest, together with the co-city
-policy cycle/process^30^, compose the beta version of what we call “the
-co-city protocol.” We interpret such protocol as a language that could
+policy cycle/process, compose the beta version of what we call “the
+co-city protocol.”^30^ We interpret such protocol as a language that could
 guide collaboration among urban communities experimenting with the
 governance of the urban commons, as well as the exchange of ideas and
 practices on the commons at the urban level without impairing

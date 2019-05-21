@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: On the Commons and Europe
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Michel Bauwens, Silke Helfrich, David Bollier
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -16,6 +16,8 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+![](imgs/Ch_8_Conclusion.jpg)
+Conclusion
 
 # 16. On the Commons and Europe
 
@@ -26,15 +28,15 @@ reknowned commons-thinkers in the world. Michel Bauwens is the
 co-founder of the P2P Foundation, one of the most important
 organisations in the commons movement. He is the author of countless
 important publications about the commons. Together with Vasilis Kostakis
-and Alex Pazaitis, he just released a new book^1^ titled *Peer To Peer:
-The Commons Manifesto* (2019). Silke Helfrich and David Bollier
+and Alex Pazaitis, he just released a new book titled *Peer To Peer:
+The Commons Manifesto* (2019).^1^ Silke Helfrich and David Bollier
 co-founded the Commons Strategies Group with Michel Bauwens. Helfrich
 and Bollier also co-wrote two important works about the commons in
 recent years: *The Wealth of the Commons* (2012) and *Patterns of
 Commoning* (2015). In September of 2019, the duo will release their
-latest book^2^: *Free, Fair and Alive: The Insurgent Power of the
+latest book: *Free, Fair and Alive: The Insurgent Power of the
 Commons* (2019), a truly seminal work for anyone interested in the
-commons. David Bollier is also a board member of Commons Network.
+commons.^2^ David Bollier is also a board member of Commons Network.
 
 ***Thomas de Groot**: Out of all the major crises we face today, which
 one is the most urgent?*
@@ -80,9 +82,9 @@ taught to think. We are immersed in an epistemological delirium – as
 Bruno Latour would put it. An example: when we think of nature as a
 resource to be used for our purposes, we imply that it is separated from
 us! Framed that way, everything comes down to a management problem – the
-mangement of some*thing*. And then we manage and manage and at the end
+management of some*thing*. And then we manage and manage and at the end
 of the day, we get burned out, suffering from that cultivated
-seperation. So, the root cause of the problems mentioned by Michel, and
+separation. So, the root cause of the problems mentioned by Michel, and
 of many other problems, is that we ignore the most important element
 that makes us truly thrive: relatedness, connection.
 

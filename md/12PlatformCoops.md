@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Own This!
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Trebor Scholz
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -64,10 +64,10 @@ digital economy do we want to create?’
 Instead of optimizing the online economy for growth and short-term
 profits for the few, we need to optimize the online economy for workers
 and all people. Platform Cooperativism, as developed by Trebor
-Scholz^1-2^ and popularized by countless people around the world,
+Scholz and popularized by countless people around the world,
 chiefly Nathan Schneider, does this by applying the 200-year history of
 cooperatives – its lessons, principles, and best practices – to the
-digital economy.
+digital economy.^1,2^
 
 A cooperative is defined as an autonomous association of persons united
 voluntarily to meet their common economic, social, and cultural needs
@@ -76,7 +76,7 @@ enterprise. A platform is an online application or website used by
 individuals or groups to connect to one another or to organize services.
 Platform Co-operativism, the growing movement to cooperatize online
 businesses, builds on these values by establishing four key principles
-of its own^3-4-5^:
+of its own:^3,4,5^
 
 -   Broad-based ownership, in which stakeholders and workers own, and
     therefore direct and control, the technological fea-tures,
@@ -107,7 +107,7 @@ model that, for the first time, puts workers and users ahead of profits
 and stockholders. This is not only a struggle for social justice. It is
 also a struggle for economic development. There have been also
 successful attempts of platform co-ops pushing back against the gig
-economy^6-7^.
+economy.^6,7^
 
 ## Platform Co-ops Are Already Here
 
@@ -116,7 +116,7 @@ imagination. The platform co-op movement is already here. It has gained
 momentum in numerous sectors and in numerous countries around the globe.
 The ecosystem of platform co-ops, some 240 projects currently, reaches
 from Brazil to Switzerland, India to Canada, East Asia to Africa, and
-places in between^8-7-9-10^. Various types of platform co-ops are
+places in between.^8,9,10^ Various types of platform co-ops are
 developing and pushing into new markets against the status quo:
 
 -   Producer platform co-ops like Stocksy, and Resonate
@@ -154,7 +154,7 @@ emerging to help facilitate democratic governance for these businesses,
 accompanying the best practices emerging from existing platform co-ops.
 Finally, employee ownership, is a central component of cooperatives.
 Worker ownership is supported by both conservative and liberal political
-parties across continents^11^.
+parties across continents.^11^
 
 Platform co-ops offer a new vision for society. They are actually
 existing alternatives to some of our current economic dilemmas. The

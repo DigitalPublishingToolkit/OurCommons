@@ -38,13 +38,10 @@ the Schumacher Center
 **Sheila R. Foster** is professor of Law and Public Policy at Georgetown
 University and co-director of LabGov
 
-**Spring Gombe** is Policy Advocacy Manager at DNDi
-
 **Thomas de Groot** is Urban Policies and European Campaigns Lead at
 Commons Network
 
-**David Hammerstein** is co-founder and senior advisor at Commons
-Network
+**David Hammerstein** is a public interest advocate, co-founder and senior advisor at Commons Network
 
 **Silke Helfrich** is author and co-founder of Commons Strategies Group
 and of Das Commons-Institut

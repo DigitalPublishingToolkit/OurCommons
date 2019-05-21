@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: From Lab to Commons
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Sophie Bloemen
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -16,6 +16,9 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+
+![](imgs/Ch_7_Access_to_medicines.jpg)
+Reclaiming Health Care
 
 # 13. From Lab to Commons: Health as a Common Good
 
@@ -192,20 +195,20 @@ treatment in the 1990s, is still as relevant as ever. Democratic
 governances and shared ownership not only serve the development of
 better, suitable, appropriate treatments for different populations.
 Creating local capacity to develop and produce medicines eventually
-serves sustainable access to treatment.
+serves sustainable access to treatment as well.
 
 Finally, there is an **important role for institutions to support the
-commons an**d forge public-civic collaborations.
+biomedical commons** and forge public-civic collaborations.
 
 ## Transitional and transformational Initiatives
 
 How can we begin transforming such a complex system? How to move away
 from the centralised and commercialised practices around health? First
 we have to let go of the idea that there is no alternative to the
-current system. Of course there is, there many, we just have to
+current system. Of course there is, there are many, we just have to
 envision, explore and build them.
 
-We need to build on the many initiatives and suggestions that are
+We need to build on the many initiatives and approaches that are
 already helping to transition away from today’s broken system. These
 initiatives include the use of open knowledge and collaborative
 innovation, as well as the use of incentive systems where intellectual
@@ -315,16 +318,5 @@ professionals and citizens will all be crucial to the process of
 negotiating a transition from the today's deficient market-driven
 biomedical model to a model designed to serve universal health needs.
 
-Further reading and resources:
 
-From Lab to Commons, Bloemen & Hammerstein:
-<http://commonsnetwork.org/wp-content/uploads/2018/06/FromLabToCommons.pdf>
-
-People’s Prescription, Mazucato et al:
-
-<https://stopaids.org.uk/wp/wp-content/uploads/2018/10/report.pdf>
-
-<https://delinkage.org>
-
-*This text is based on the policy paper ‘From Lab to Commons’ (2018) by
-Sophie Bloemen & David Hammerstein, Commons Network.*
+*This text is based on the Commons Network policy paper ‘From Lab to Commons’ (2018) by Sophie Bloemen, David Hammerstein and contributing author Carolyn Whitten.*

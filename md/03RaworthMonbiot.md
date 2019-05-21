@@ -21,12 +21,12 @@ Rights: CC BY-NC 4.0
 
 by Thomas de Groot and Sophie Bloemen
 
-[]{#_Hlk2873838 .anchor}It’s hard to overstate the influence Kate
+It’s hard to overstate the influence Kate
 Raworth and George Monbiot have had on the increasing popular attention
-to the commons. *Doughnut Economics*, the best-selling book^1^ that
+to the commons. *Doughnut Economics*, the best-selling book that
 Raworth published in 2017, sent shockwaves through the world of
-economics and politics. *Out of the Wreckage*, Monbiot’s best-selling
-book^2^ from 2017, struck a chord with policymakers and activists. More
+economics and politics.^1^ *Out of the Wreckage*, Monbiot’s best-selling
+book from 2017, struck a chord with policymakers and activists.^2^ More
 importantly, both writers have managed to reach an audience that goes
 far beyond academia or policy circles. Their ideas are discussed in
 mainstream media, from newspapers to talkshows, and they are quoted by
@@ -76,7 +76,7 @@ spaces of the 21st century economy."
 ## A new Politics of Belonging
 
 *Out of the Wreckage* endeavours to lay the groundwork for a "new
-politics of belonging," as George Monbiot himself puts it. And just as
+politics of belonging", as George Monbiot himself puts it. And just as
 in the Doughnut, the commons are at the heart of this new progressive
 narrative. "Kate talks about the commons as a starting point for her new
 vision on economics and I look at the commons for their potential for
@@ -213,7 +213,7 @@ market is the only legitimate sphere and that when states seek to change
 social outcomes, they act illegitimately. That belief has been
 internalised by us all. It is very hard for us to shake. We have come to
 lose the idea that we can change our lives through voting in governments
-that are more []{#__DdeLink__186_1356940871 .anchor}*dirigiste*."
+that are more *dirigiste*."
 
 Democratising our systems means granting control over decision-making
 processes, treating people as intelligent citizens, according to
@@ -293,7 +293,7 @@ There, the return on the business stays with those who did the work."
 Access to knowledge is another good example, Raworth says. "Access to
 knowledge is access to means of wealth creation. We don’t have to own
 the idea, we collectively add to the idea, we share it, we remix it, and
-by doing so, we collective create new ideas."
+by doing so, we collectively create new ideas."
 
 ## Shaping the Commons in Europe
 

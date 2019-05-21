@@ -44,8 +44,8 @@ households to city politics, and even at the European level, there has
 been an unprecedented involvement from the public into energy and
 electricity matters. This has for instance taken the shape of energy
 cooperatives. According to the European Federation of renewable energy
-cooperatives, RESCOOP^1^, there are at present some 1,250 energy
-communities in which a million people throughout Europe are involved.
+cooperatives, RESCOOP, there are at present some 1,250 energy
+communities in which a million people throughout Europe are involved.^1^
 Through the RESCOOP federation, these groups actively lobby at a
 European level to bend the legislation towards promoting and supporting
 energy cooperatives.
@@ -54,7 +54,7 @@ This model of energy cooperativism dates back to the late 1990s in
 Germany and was enabled by a set of disruptive laws supporting the
 production of renewable energy. This bill kick-started the German energy
 transition (dubbed “Energiewende”), which has become a landmark and is
-being widely copied^2^. The two main pillars were defined in the Feed-In
+being widely copied.^2^ The two main pillars were defined in the Feed-In
 Act of 2000: the priority of renewable sources to the grid and feed-in
 tariffs (fixed prices paid for renewable energy).
 
@@ -63,7 +63,7 @@ to enter the game. Citizen cooperatives and households have especially
 benefited, because a fixed price for each kilowatt hour (KWH) could be
 sold back to the grid, which gave them more space to invest in new
 technologies. From the late 1990s onwards, the number of cooperatives in
-Germany has grown exponentially, reaching 900 in 2019^3^. It is a model
+Germany has grown exponentially, reaching 900 in 2019.^3^ It is a model
 that comes with many advantages. Let’s virtually visit one of these
 cooperatives together.
 
@@ -152,10 +152,10 @@ households spend an increasing proportion of their income on energy
 expenditure (which can reach up to 33%). Although affecting most
 strongly southern and eastern European countries, this problem is also
 seen in cities like London, where the government has issued a plan to
-tackle fuel poverty^5^.
+tackle fuel poverty.^5^
 
 All over Europe, a movement to reclaim public services from the private
-sector is gaining traction^6^. Municipal utilities are seen as a tool to
+sector is gaining traction.^6^ Municipal utilities are seen as a tool to
 control tariffs, steward the energy transition and fight energy poverty.
 And indeed, cities have a crucial role to play as they are accountable
 to all citizens and are thus by definition more inclusive than
@@ -166,7 +166,7 @@ to public-private-partnerships).
 
 An aspect of the energy transition which is often overlooked is the need
 to drastically reduce our consumption of energy (a decrease by 50% is
-planned in the German “Energiewende” plan^7^). The cheapest and cleanest
+planned in the German “Energiewende” plan).^7^ The cheapest and cleanest
 energy is the one which is not produced and not used: all power plants,
 even those harvesting renewable sources of energy, have large impacts on
 the environment (e.g., by using rare earth elements for wind turbines).
@@ -181,12 +181,12 @@ much energy as possible. Municipal utilities, by effectively shifting
 energy from the commodities market to the commons, can help to manage
 the resource more efficiently and have a decisive role to play. An
 example for this is provided by the Sustainable Energy Utility in the US
-state of Delaware^8^, which is a community-based institution aiming at
-designing and financing local energy projects. The idea is to consider
+state of Delaware, which is a community-based institution aiming at
+designing and financing local energy projects.^8^ The idea is to consider
 the energy consumption of a community globally, with the primary aim
 being to save it: when energy is needed, the SEU should implement an
 appropriate renewable technology, and incorporate heat and transport
-systems in the design^9^.
+systems in the design.^9^
 
 > The next step is therefore to combine the governance model of
 > cooperatives with the inclusiveness of municipal utilities in order to
@@ -206,7 +206,7 @@ fully democratic and just energy transition.
 In many places of the world, privatisation of the energy market led to
 the appropriation of productive land by large multinationals (think of
 solar farms in the Sahara to feed the European grid), with very little
-or no spillover for the local economy^10^. This could be described as
+or no spillover for the local economy.^10^ This could be described as
 cases of enclosure of the commons and energy colonialism. Furthermore,
 the present “over-grazing” of our finite energy resources, which results
 from our “energy obesity”, questions the inter-generational liability:

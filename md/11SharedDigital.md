@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: A New Vision for a Shared Digital Europe
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Sophie Bloemen, Alek Tarkowski, Paul Keller
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -16,6 +16,9 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+
+![](imgs/Ch_4_Digital_commons.jpg)
+Reclaiming Digital Commons
 
 # 10. A New Vision for a Shared Digital Europe
 
@@ -353,4 +356,4 @@ makers with an opportunity to work towards a truly European idea about
 how society should function in the digital age.
 
 *(This text is an abbreviated version of the vision published in April
-2019 on <https://shared-digital.eu>^1^)*
+2019 on <https://shared-digital.eu>)*^1^

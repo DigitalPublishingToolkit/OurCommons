@@ -17,9 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 3. Commons-Based Renewable Energy
+![](imgs/Ch_6_Energy_Production.jpg)
+Reclaiming Energy
 
-# in the Age of Climate Collapse
+# 3. Commons-Based Renewable Energy in the Age of Climate Collapse
 
 by David Hammerstein
 
@@ -27,7 +28,7 @@ by David Hammerstein
 is that a society's steep decline may begin only a decade or two after
 the society reaches its peak numbers, wealth, and power.”*
 
-Jared Diamond, Collapse^1^
+Jared Diamond, Collapse^1^ 
 
 One of the fallacies in our unrealistic thinking about the future is the
 idea that renewable energy can substitute the fossil fuels that have
@@ -39,7 +40,7 @@ leading us to grossly underestimate the great challenges that a real
 energy transition would pose. The global collapse of our environment and
 our climate demands much more than a change in our energy production
 model. It requires us to question the basic premises of our extractive
-models of agriculture, industry, tourism, transport and construction^2^.
+models of agriculture, industry, tourism, transport and construction.^2^
 
 A simple ’tech-fix’ approach to renewables is promoted to avoid
 structurally challenging the basic premises of our growth-dependent and
@@ -52,7 +53,7 @@ physical economies, especially among the wealthiest, most consumerist
 possible only by means of technical efficiency measures. It requires
 major political change and state regulations in favor of sufficiency and
 the preservation and regeneration of the global natural commons. This is
-a daunting task^3^.
+a daunting task.^3^
 
 Today, solar energy and wind energy represent only around 2% of our
 global energy mix, while fossil fuels supply over 80% of our energy
@@ -71,7 +72,7 @@ for heating, transport, industry and agriculture, among other
 activities. In total contradiction to what is now needed, global energy
 demand grew 2.1% in 2017 while CO2 emissions rose 1.4% amidst growing
 and more desperate calls for drastic CO2 reductions from the scientific
-community^5-4^.
+community.^4,5^
 
 To be realistic about our energy crunch, we must first exit the denial
 consensus. Due to ecological constraints, our present growth-driven and
@@ -127,7 +128,7 @@ production does not mean less use of pesticides by intensive
 agriculture, more recycling and re-use does not mean less resource
 extraction. A “circular economy” that does not reduce the total volume
 of resource extraction can create an illusion of sustainability as
-explained by the “Jevons paradox”^6^. To make a difference, renewables
+explained by the “Jevons paradox”.^6^ To make a difference, renewables
 must substitute fossil fuels quickly and to the greatest degree
 possible, while overall energy and resource consumption must be reduced
 drastically. This is a monumental task that most politicians would say
@@ -155,7 +156,7 @@ environmental destruction in absolute terms^10^ and even the relative
 disassociation of economic growth from the growth of CO2 emissions is
 usually a statistical manipulation that does not count the emissions
 produced or accumulated in their imported materials, products and
-services from every corner of the Earth^7^.
+services from every corner of the Earth.^7^
 
 ## The EU and the Tragedy of the Energy Anti-Commons
 
@@ -287,7 +288,7 @@ production. This paradigm shift favours demand management, much greater
 citizen consciousness of saving energy and the building of flexible
 resilience. This must happen in the face of future social-ecological
 chaos and impending climate breakdown by investing in pooled district
-heating, renewable energy storage and increased local autonomy^8^.
+heating, renewable energy storage and increased local autonomy.^8^
 
 We need the application of an EU energy subsidiarity principle on all
 levels of EU policy. This would mean that EU financing would be
@@ -305,7 +306,7 @@ transition. Now it is crucial that the rights of individual citizens or
 citizens collectives are actively supported institutionally on all
 government levels for producing, supplying and consuming renewable
 energy without any discriminatory treatment in favor of large private
-energy companies^9^.
+energy companies.^9^
 
 The renewable energy commons is part of a larger strategy that at once
 regenerates communities and the living world through democratic

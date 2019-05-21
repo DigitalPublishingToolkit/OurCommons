@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: The Medicines Patent Tool
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Ellen 't Hoen
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 14. The Medicines Patent Pool: A Remedy for the Anti-Commons
 
-by Ellen‘t Hoen
+by Ellen ‘t Hoen
 
 In 2002, at the International AIDS Conference in Barcelona, a group of
 people met in a small meeting room to discuss the high prices of
@@ -40,14 +40,14 @@ production.
 
 To the surprise of the audience in Barcelona, Knowledge Ecology
 International's Director James Love put up a picture of the patent
-application for an early 20th century airplane^1^. The early developers
+application for an early 20th century airplane.^1^The early developers
 of the airplane held patents on the technology. They were not keen to
 share their technology and took legal action whenever they suspected
 infringement of their patents. But these patent wars were really
 starting to hamper the United States' ability to develop and produce
 military airplanes. The government had to intervene and so established
 the first government mandated patent pool in which all airplane
-producers were required to collaborate^2^.
+producers were required to collaborate.^2^
 
 "If we can do this for reasons of war, why can't we do this to fight
 HIV/AIDS?" This was the question James Love put to the group at the AIDS
@@ -87,7 +87,7 @@ public health, thereby introducing the primacy of health over trade
 considerations. The Declaration further outlined measures countries can
 take when patents form a barrier to ensure access to medicines for all,
 and suspended the obligation of least developed countries to provide or
-enforce medicines product patents^3^. Further, UNITAID was open to new
+enforce medicines product patents.^3^ Further, UNITAID was open to new
 and innovative ideas to tackle medicine access problems and showed
 leadership in taking on promising, yet controversial proposals.
 
@@ -100,7 +100,7 @@ leadership in taking on promising, yet controversial proposals.
 
 Also, in 2006, the World Health Organization Commission on Intellectual
 Property Rights, Innovation and Public health (CIPIH) recommended the
-establishment of a patent pool^4^. These developments strengthened the
+establishment of a patent pool.^4^ These developments strengthened the
 resolve of Knowledge Ecology International and Médecins sans Frontières
 in proposing to UNITAID to establish a medicines patent pool.
 
@@ -109,14 +109,14 @@ technologies by making patents and other forms of intellectual property
 more readily available to entities other than the patent holder. The
 pool is intended to avert a "tragedy of the anti-commons" in which
 people are unable to make use of knowledge because of the entanglement
-of property rights that block them^5^.
+of property rights that block them.^5^
 
 Patent pools have been established in various fields related to public
 health — examples include the Golden Rice in agriculture, a vaccine for
 Severe Acute Respiratory Syndrome (SARS), as well as multiple areas of
 information technology. The aim of all of those initiatives was to
 overcome barriers to access and innovation that may arise when relevant
-patents are owned by many different entities^6-7^.
+patents are owned by many different entities.^6,7^
 
 The UNITAID Patent Pool, as it was called in the early days, was a new
 idea. It focused on medicines and the collective management of
@@ -129,9 +129,9 @@ essence, it transferred control over intellectual property from
 corporations to the larger community, making sure that all people had
 access to proper treatment.
 
-After a feasibility study^8^ that concluded that the proposal was indeed
+After a feasibility study that concluded that the proposal was indeed
 desirable and doable, UNITAID formed an in-house team to develop an
-implementation plan for the Medicines Patent Pool (MPP) in 2009. A year
+implementation plan for the Medicines Patent Pool (MPP) in 2009.^8^ A year
 later, in 2010, the Medicines Patent Pool was established as a separate
 legal entity and opened its doors in Geneva. UNITAID would remain its
 core funder until this day.
@@ -158,7 +158,7 @@ Some claimed it would undermine other efforts to reform the system of
 intellectual property. Others expressed concern that the licenses from
 the pool might cover people in the poorest countries, but if they didn’t
 cover people in all middle-income countries, those patients would be out
-of options^9^.
+of options.^9^
 
 The key to the pool's success would be the willingness of patent
 holders, mostly pharmaceutical corporations, to engage and license their
@@ -166,11 +166,11 @@ intellectual property. This was no small order considering that
 medicines patents are the crown jewels of the industry. It would not be
 easy to persuade them to part with them. Some in the industry responded
 to the establishment of the patent pool idea with resistance. For
-example, one company told the Financial Times^10^ that they could better
+example, one company told the Financial Times that they could better
 accelerate access themselves and that ‘’The pool’s key focus has been
 political in getting access to IP without explaining how it will work.
 \[...\] The €4.7m they will spend could save thousands of lives \[by
-buying drugs.\]"
+buying drugs.\]"^10^
 
 Other companies were more forthcoming in the early days. Gilead was
 notable in that it publicly declared at the 2008 AIDS conference to be
@@ -185,15 +185,15 @@ Pool.
 A first breakthrough for the Pool came when the US National Institutes
 for Health (NIH) approached UNITAID and offered to license its patents
 related to HIV medications. In 2010, the Medicines Patent Pool signed
-its first agreement with NIH^11^. It became apparent that this move had
+its first agreement with NIH.^11^ It became apparent that this move had
 support from the highest political levels when the White House’s
-blog^12^ encouraged companies to follow suit and congratulated those^13^
-that^14^ did^15^. Gilead, an important holder of patents on essential
+blog encouraged companies to follow suit and congratulated those
+that did.^12,13,14,15^ Gilead, an important holder of patents on essential
 and new medicines for the treatment of HIV, followed soon after. The
-company signed^16^ its first license agreement with the Medicines Patent
-Pool in 2011. That same year, the first generic companies joined the
-initiative^17^, which was crucial because generic companies are the ones
-that actually produce and sell low-priced medicines.
+company signed its first license agreement with the Medicines Patent
+Pool in 2011.^16^ That same year, the first generic companies joined the
+initiative, which was crucial because generic companies are the ones
+that actually produce and sell low-priced medicines.^17^
 
 ## Core features of the Medicines Patent Pool
 
@@ -225,7 +225,7 @@ international law, such as using compulsory licensing of medicines
 patents. As a result, the Medicines Patent Pool licenses allow the
 generic companies to supply generic medicines to countries that are not
 listed in the agreement when such countries make use of TRIPS
-flexibilities such as compulsory licensing^18^. If the Pool’s licenses
+flexibilities such as compulsory licensing.^18^ If the Pool’s licenses
 would not allow the generic companies they work with to supply to
 countries that have issued a compulsory license, the Pool could
 potentially paralyse the effectiveness of such measures.
@@ -234,7 +234,7 @@ The Pool's license agreements also include waivers for data exclusivity
 and require quality assurances of the medicines. When needed, the
 agreements can also provide for technology transfer. A significant and
 unique feature is the transparency of the MPP's licenses. They all are
-available, in full text, on the MPP’s website^19^.
+available, in full text, on the MPP’s website.<super>19</super>
 
 ## State of play today
 
@@ -252,7 +252,7 @@ adults with HIV/AIDS, and 100% of children, can benefit from the MPP.
 
 The new first-line HIV treatment, TLD
 (tenofovir/lamivudine/dolutegravir), was first developed by licensees of
-the MPP^20^. The generic company, Mylan, was the first to obtain
+the MPP.^20^ The generic company, Mylan, was the first to obtain
 marketing approval for the product in 2017, bringing a truly innovative
 product to market as a generic from the first day of sale.
 
@@ -285,9 +285,8 @@ like cancer, diabetes, and asthma. Currently, national governments pay
 most of the costs of treatment for such diseases. It is therefore
 important that those governments become more vocal on the need for MPP
 licenses for medicines for non-communicable diseases. It is encouraging
-that some companies have []{#__DdeLink__2690_1356940871
-.anchor}signalled to be willing to work with the Patent Pool on cancer
-medication^21^.
+that some companies have signalled to be willing to work with the Patent Pool on cancer
+medication.^21^
 
 The Pool has successfully pried some of the hold over medicines
 intellectual property, mostly related to HIV and hepatitis C products,

@@ -1,14 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
+Pr-id: Our Commons
+P-id: Miscelanea
 A-id: 10
 Type: article
-Book-type: anthology
+Book-type: bundle
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Social Circularity
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Thomas de Groot
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -36,9 +36,9 @@ chaos will increase. Meanwhile, ignoring warnings from everywhere, we
 keep talking about economic growth. Our political representatives have
 abandoned us, or so it seems.”
 
-The idea behind Foodtopia^1^ was to ask people to bring their leftover
+The idea behind Foodtopia was to ask people to bring their leftover
 food to this campus kitchen, in order to turn it into communal meals for
-all. The response was overwhelming right from the start. Within a few
+all.^1^ The response was overwhelming right from the start. Within a few
 weeks, the Foodtopia crew were feeding hundreds of people per day. Now,
 they have food hubs in many other towns and villages, that run complete
 circular systems, from local agriculture to production to communal
@@ -83,26 +83,26 @@ collecting surplus food from supermarkets, catering companies and
 restaurants in order to cook free meals with that food for everyone in
 the neighbourhood. It is also a movement to promote inclusive
 sustainability or, as they call it, ‘social circularity’. BuurtBuik
-works^2^ with companies like HelloFresh, social organisations like the
+works with companies like HelloFresh, social organisations like the
 Salvation Army and institutions like the municipality of Amsterdam to
 raise awareness about foodwaste, social exclusion, poverty, loneliness
-and health.
+and health.^2^
 
 The Netherlands is one of the richest countries on earth, yet many Dutch
 people have lived mostly the adverse effects of thirty years of
 exceedingly neoliberal and austere policies. Decades of center-left and
 center-right governments have led to a paradoxal situation. Dutch GDP
-grows 1 or 2 percent each year^3^, yet around 200,000 Dutch children and
-8 percent of households live below the poverty line^4^. In cities like
+grows 1 or 2 percent each year, yet around 200,000 Dutch children and
+8 percent of households live below the poverty line.^3,4^ In cities like
 Amsterdam, 1 in 6 people live below the poverty line, 27,000 of which
-are children^5^. 7 per cent of the population (more than one million
-people) feel severely lonely^6^. In Amsterdam, that group accounts for
-one-sixth of the population^7^. Lonely people have a statistically
-higher chance of being poor and vice versa^8^. Both poverty and
+are children.^5^ 7 per cent of the population (more than one million
+people) feel severely lonely.^6^ In Amsterdam, that group accounts for
+one-sixth of the population.^7^ Lonely people have a statistically
+higher chance of being poor and vice versa.^8^ Both poverty and
 loneliness are very bad for your health. In fact, lonely people that
 live in poverty have a health-life expectancy (the number of ‘healthy
 years’) that is 15 years lower than the average young urban professional
-that might live in the same street as them^9^.
+that might live in the same street as them.^9^
 
 All over The Netherlands, teams of volunteers organize BuurtBuik-meals
 in community centers. The meals are cooked using only surplus food from
@@ -112,11 +112,11 @@ BuurtBuik grow out to become one of the most vital and inspiring
 initiatives in the country. The volunteers at BuurtBuik have set out to
 battle food waste, which is a huge problem. In Amsterdam, for instance,
 businesses and consumers together throw away more than 100,000 kilograms
-of good food each year^10^. If food waste were a country, it would be in
+of good food each year.^10^ If food waste were a country, it would be in
 the top three biggest polluters in the world, right behind China and the
-United States^11^. The emissions that are released to sustain our global
+United States.^11^ The emissions that are released to sustain our global
 food production accounts for one tenth of all human-made greenhouse gas
-emissions^12^.
+emissions.^12^
 
 Just working on one of these challenges, whether it is poverty or food
 waste, would be a daunting task for any organisation. But groups like

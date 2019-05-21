@@ -17,9 +17,12 @@ Rights: CC BY-NC 4.0
 ...
 
 
+![](imgs/Ch_1_Shifting_paradigms.jpg)
+Shifting Paradigms
+
 # 1. Introduction: Shifting Paradigms
 
-By Sophie Bloemen and Thomas de Groot
+by Sophie Bloemen and Thomas de Groot
 
 ‘Europe’ is more an idea than a geographical unit. In many ways, it
 remains a promise, something that one day might take shape. How we
@@ -73,7 +76,7 @@ social-ecological transition.
 This renewed claim to community, belonging and collaborative values
 makes a new politics and a new economy possible. Yes, we argue that this
 vision brings us closer to the ideal of Europe as a post-nationalist
-space^1^. Through trans-local solidarity and multilayered belonging, we
+space.<super>1</super> Through trans-local solidarity and multilayered belonging, we
 can escape the stand-off between detached cosmopolitanism and regressive
 nationalism.
 
@@ -198,8 +201,8 @@ Bloemen argues in chapter 13, in her invocation of the commons to
 bolster the access to medicines movement. How this might work in
 practice is demonstrated in chapters 14 and 15, where we present the
 cases of the Drugs for Neglected Diseases Initiative (DNDi) and the
-Medicines Patent Pool (MPP). Benjamin Coriat, Spring Gombe and
-Jean-Francois Alesandrini of DNDi brief us in detail about how a
+Medicines Patent Pool (MPP). Benjamin Coriat and
+co-authors of DNDi brief us in detail about how a
 non-profit medicines developer functions as a commons. MPP-founder Ellen
 ’t Hoen gives us a detailed account of the vision and the process that
 led to the Patent Pool.

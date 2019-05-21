@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Could this Local Experiment Be the Start of a National Transformation?
 Article-status: accepted
-Author: name(s) of author(s)
+Author: George Monbiot
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -28,8 +28,8 @@ If there is hope, it lies here, in the most deprived borough in London.
 Barking and Dagenham has shocking levels of unemployment, homelessness,
 teenage pregnancy, domestic violence and early death. Until 2010, it was
 the [main
-stronghold](http://news.bbc.co.uk/1/hi/uk_politics/4974870.stm)^1^ of
-the British National party. Its population turns over at astonishing
+stronghold](http://news.bbc.co.uk/1/hi/uk_politics/4974870.stm) of
+the British National party.^1^ Its population turns over at astonishing
 speed: every year, about 8% of residents move out. But over the past
 year it has started to become known for something else: as a global
 leader in taking back control.
@@ -48,48 +48,48 @@ resilience of the community it replaced. I believe we still need strong
 state support and well-financed public services. But this is not enough.
 The best antidote to the rising tide of demagoguery and reaction is a
 [politics of
-belonging](https://www.theguardian.com/books/2017/sep/09/george-monbiot-how-de-we-get-out-of-this-mess)^2^
-based on strong and confident local communities.
+belonging](https://www.theguardian.com/books/2017/sep/09/george-monbiot-how-de-we-get-out-of-this-mess)
+based on strong and confident local communities.^2^
 
 Those who study community life talk about two kinds of social network:
 [bonding and
-bridging](https://www.socialcapitalresearch.com/difference-bonding-bridging-social-capital/)^3^.
+bridging](https://www.socialcapitalresearch.com/difference-bonding-bridging-social-capital/).^3^
 Bonding networks are those created within homogeneous groups. While they
 can overcome social isolation, they can also foster suspicion and
 prejudice, while limiting opportunities for change. Bridging networks
 bring people from different groups together. Research suggests that they
 can [reduce
-crime](https://www.jstor.org/stable/3598488?seq=1#page_scan_tab_contents)^4^
+crime](https://www.jstor.org/stable/3598488?seq=1#page_scan_tab_contents)
 and
-[unemployment](http://www.academia.edu/11729767/_Civic_Health_and_Unemployment_II_The_Case_Builds_)^5^
+[unemployment](http://www.academia.edu/11729767/_Civic_Health_and_Unemployment_II_The_Case_Builds_)
 and, by enhancing community voices, improve the [quality of
-government](https://www.tandfonline.com/doi/abs/10.1080/14719037.2010.532962)^6^.
+government](https://www.tandfonline.com/doi/abs/10.1080/14719037.2010.532962).^4,5,6^
 
-After [routing the BNP](http://news.bbc.co.uk/1/hi/8668885.stm)^7^,
+After [routing the BNP](http://news.bbc.co.uk/1/hi/8668885.stm),
 which had taken [12 of 51
-seats](https://www.theguardian.com/politics/2006/may/05/localelections2006.uk)^8^
+seats](https://www.theguardian.com/politics/2006/may/05/localelections2006.uk)
 in 2006, Labour councillors in Barking and Dagenham saw that it wasn’t
-enough to target people’s needs and deliver isolated services. They
+enough to target people’s needs and deliver isolated services.^7,8^ They
 wanted to move from paternalism to participation. But how?
 
 Just as the council began looking for ideas, the [Participatory City
-Foundation](http://www.participatorycity.org/)^9^ led by the inspiring
+Foundation](http://www.participatorycity.org/) led by the inspiring
 Tessy Britton, approached it with a plan for an entirely different
 system, developed after [nine years of
-research](https://issuu.com/participatorycity/docs/designed_to_scale_v.1)^10^
-into how bridging networks form. Nothing like it had been attempted by a
+research](https://issuu.com/participatorycity/docs/designed_to_scale_v.1)
+into how bridging networks form.^9,10^ Nothing like it had been attempted by a
 borough before. The council realised it was taking a risk. But it
-[helped to fund](https://www.lbbd.gov.uk/every-one-every-day)^11^ a £7m,
+[helped to fund](https://www.lbbd.gov.uk/every-one-every-day) a £7m,
 five-year experiment, called [Every One, Every
-Day](https://www.weareeveryone.org/)^12^.
+Day](https://www.weareeveryone.org/).^11,12^
 
 > The best antidote to the rising tide of demagoguery and reaction is a
 > politics of belonging based on strong and confident local communities.
 
 Researching successful community projects across the world, the
 foundation discovered [a set of
-common](https://drive.google.com/file/d/1Xobncy0wVby19kjT7Ii0giGsAtvg8rt3/view)^13^
-principles. Typically, they demand little time or commitment from local
+common](https://drive.google.com/file/d/1Xobncy0wVby19kjT7Ii0giGsAtvg8rt3/view)
+principles.^13^ Typically, they demand little time or commitment from local
 people, and no financial cost. They are close to people’s homes, open to
 everyone, and designed to attract talent rather than to meet particular
 needs. They set up physical and visible infrastructure. And rather than
@@ -160,6 +160,5 @@ it’s not the whole answer to our many troubles. But it looks to me like
 a bright light in a darkening world.
 
 *This article was originally published by George Monbiot on the website
-of The Guardian^14^ on January 24th of 2019
-(<https://www.theguardian.com/commentisfree/2019/jan/24/neighbourhood-project-barking-dagenham>)
-*
+of The Guardian on January 24th of 2019
+(<https://www.theguardian.com/commentisfree/2019/jan/24/neighbourhood-project-barking-dagenham>)*^14^

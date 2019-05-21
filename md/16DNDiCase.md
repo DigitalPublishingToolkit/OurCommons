@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Developing Innovative Drugs
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Jean-Francois Allesandrini, Benjamin Coriat, Spring Gombe
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # 15. Developing Innovative Drugs Through the Commons: Lessons from the DNDi Experience
 
-by Jean-Francois Allesandrini, Benjamin Coriat and Spring Gombe
+by  Benjamin Coriat, Philippe Abecassis, Jean-Francois Allesandrini, Nathalie Coutinet and Stéphanie Leyronas
 
 In this paper we argue that DNDi, even though it belongs to the family
 of Product Development Partnerships (PDPs) created at the end of the
@@ -32,23 +32,23 @@ property policy.*
 ## From PDP to Commons: DNDi’s trajectory
 
 To fully understand the significance of the DNDi project, it is
-necessary to look back at the end of the 20^th^ century. This period saw
+necessary to look back at the end of the 20th century. This period saw
 heated international debate on the developing world’s shortcomings in
-the availability of and access to care^1^. A distressing imbalance in
+the availability of and access to care.^1^ A distressing imbalance in
 the supply of drugs became clear: 90% of research and development (R&D)
 was conducted for the benefit of the 10% most wealthy and credit-worthy
-patients^2^. This concern was fuelled by the sudden tightening of
+patients.^2^ This concern was fuelled by the sudden tightening of
 Intellectual Property (IP) standards following the signature of the
 Trade-Related Aspects of the Intellectual Property Rights (TRIPS)
-Agreement in 1994^3^. The changes set up by the TRIPS Agreement included
+Agreement in 1994.^3^ The changes set up by the TRIPS Agreement included
 the compulsory patenting of therapeutic molecules in all signatory
 countries, thus creating a unified global market for patented drugs
-regardless of countries’ levels of development^4^.
+regardless of countries’ levels of development.^4^
 
 This setting gave rise to a series of institutional innovations to
 transform the fight against neglected diseases. These innovations
 especially converged under the form of Product Development Partnerships
-(PDPs)^5^, themselves largely based on new open innovation concepts.
+(PDPs), themselves largely based on new open innovation concepts.^5^
 These PDPs can be described as not-for-profit organisations dedicated to
 promoting the development of R&D in the field of neglected diseases. The
 first PDPs created for R&D in neglected diseases were the International
@@ -67,13 +67,13 @@ the commons, some insights are needed on the commons approach,
 especially as an alternative to the narrative on Global Public Goods
 (GPGs) that until recently was dominant regarding public health.
 
-GPGs were introduced at the end of the 20^th^ century as a broadened
+GPGs were introduced at the end of the 20th century as a broadened
 understanding of public goods within the traditional neoclassical
-framework^6^. Along with the archetypal GPGs – air, atmosphere, water –
+framework.^6^ Along with the archetypal GPGs – air, atmosphere, water –
 public health was often described as a GPG. After two to three decades,
 the GPGs approach has given way to a number of limitations and
 critiques, mainly that it perpetuates the standard economic vision based
-on the defense of property rights and efficiency^7-8^.
+on the defense of property rights and efficiency.^7,8^
 
 > The goal is first to support clinical research and then to facilitate
 > the access of treatment for the greatest number of people, especially
@@ -83,7 +83,7 @@ The commons approach sets quite a different perspective. It questions
 the very roots of the GPGs approach, which focuses almost exclusively on
 regulations in a world seen as governed by agents in pursuit of private
 interests. While it does not exclude at all the need for appropriate
-regulations*,* the commons approach attaches at least equal importance
+regulations, the commons approach attaches at least equal importance
 to the establishment of local, decentralised and largely self-organised
 entities.
 
@@ -95,7 +95,7 @@ sharing of the resource’s use or creation (“shared resource”); ii) they
 allocate to the various actors a set of rights and obligations regarding
 the way in which the resource shall be treated and its benefits shared
 (“rules”); and iii) they establish forms of governance to promote the
-compliance with these rights and obligations (“governance”)^9^. Commons
+compliance with these rights and obligations (“governance”).^9^ Commons
 that meet these criteria come in various forms based on their goals and
 the nature of their institutional arrangements.
 
@@ -105,13 +105,13 @@ of their identity ought to be highlighted. First, the *ecology* of the
 system considered is at the very core of the construction of a commons:
 the rules implemented by commoners must therefore target the
 reproduction or joint enrichment of the resource and the community
-around it^10^. Second, equity is key. It is ensured by governance in the
+around it.^10^ Second, equity is key. It is ensured by governance in the
 case of commons formed from exhaustible resources and characterized by
 universal access in the case of commons that are not rival and not
 exhaustible such as intangible goods or knowledge.
 
 Based on these definitions, we argue that while DNDi does belong to the
-large PDP’s family*,* it presents several distinctive features that
+large PDP’s family, it presents several distinctive features that
 render its analysis through the lens of commons relevant and powerful.
 Beyond its own governance and funding mechanisms that very much echo a
 multi-partner-based commons model, two of its characteristics will be
@@ -141,12 +141,12 @@ according to the goals pursued. They generally include national disease
 control programmes where they exist, health ministries, universities,
 civil society representatives, pharmaceutical companies, health
 professionals, patients’ associations, and are open to donors.
-Currently, DNDi has three active platforms^11^: the Chagas Clinical
+Currently, DNDi has three active platforms: the Chagas Clinical
 Research Platform created in Brazil in 2009 (400 members; 22 countries;
 100 institutions); the Human African Trypanosomiasis Platform created in
 2005 in the Democratic Republic of the Congo (120 members; eight
 countries; 20 institutions); and the Leishmaniasis East Africa Platform
-created in 2003 in Sudan (60 members; four countries; 13 institutions).
+created in 2003 in Sudan (60 members; four countries; 13 institutions).^11^
 
 One must note that, while initiated and funded by DNDi, these platforms
 do not belong to DNDi but to the medical and scientific community that
@@ -173,7 +173,7 @@ in the platforms on which they hold patents.
 In this way, DNDi is fully committed to a concept of ownership seen as a
 bundle of rights, a characteristic of the commons approach, whereby
 different attributes of property rights are distributed and allocated to
-different types of partners^12^.
+different types of partners.^12^
 
 ## Multiple Forms of the Bundles of Rights
 
@@ -187,18 +187,16 @@ sleeping sickness. DNDi was granted non-exclusive rights to the
 molecule(s) for all applications that may result from its research in
 this field, while Anacor retained their rights for any other indication.
 Other examples include the development of the antimalarial *ASAQ
-Winthrop* by DNDi and Sanofi^5^, the licensed agreement between DNDi and
+Winthrop* by DNDi and Sanofi, the licensed agreement between DNDi and
 Presidio Pharmaceuticals on treatment for hepatitis C, or the agreements
-signed with Abbvie and Sanofi.
+signed with Abbvie and Sanofi.^5^
 
 Thus, IP policy is designed, through appropriate allocation of rights to
 the different partners to safeguard the principle of “needs driven” R&D
 activity and the benefits and access to treatment to a large number of
-people, especially the most vulnerable populations^13^.
+people, especially the most vulnerable populations.^13^
 
-## The Shift from “Neglected Diseases” to “Neglected Patients”:
-
-## Challenges and opportunities
+## The Shift from “Neglected Diseases” to “Neglected Patients”: Challenges and opportunities
 
 In 2015 DNDi decided to take an additional step when DNDi’s mission
 evolved from “neglected diseases” to encompass “neglected patients”.
@@ -225,7 +223,7 @@ have invested time and resources in the production of the shared
 material have free and unimpeded access to the licenced material
 produced by the commons. On the other hand, third parties who have not
 participated in such production may use the material in exchange for the
-payment of a compensation to the commons*.* Reciprocity licensing is an
+payment of a compensation to the commons. Reciprocity licensing is an
 avenue worth exploring to safeguard the principle of needs-driven
 research. These licenses may represent an opportunity by *reducing the
 burden for fundraising (and the competition with other NGOs for these
@@ -267,3 +265,5 @@ resources more substantially. The capability of commons to create
 institutions and business models that satisfy essential needs while
 guaranteeing universal access, especially for the neediest, is without
 doubt essential for the future of our societies.
+
+*This paper is based on the following working paper: “DNDi, a Distinctive Illustration of Commons in the Area of Public Health”, Abecassis et al. (2019), AFD Research Papers #2019-93*

@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Designing, Sustaining and Defending Resilient Urban Commons
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Doina Petrescu, Constantin Petcou
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -25,7 +25,7 @@ The question of the commons is at the heart of the discussion on
 democracy. According to Toni Negri, the contemporary revolutionary
 project that is democracy is concerned with capturing, diverting,
 appropriating and reclaiming the commons. The commons, in turn, have
-been created or are emerging as a key constituent process^1^. It is a
+been created or are emerging as a key constituent process.^1^ It is a
 re-appropriation, and at the same time a re-invention.
 
 The question of the commons is also directly related to the discussions
@@ -34,14 +34,14 @@ depletion and related economic and social crises. The environmental
 crisis is also a political crisis, a crisis of democracy and a lack of
 collective control over the resources of our planet, which is indeed our
 biggest commons. Learning how to govern our planet as a commons is part
-of the imperative of becoming more resilient^2^. Resilience is a term
+of the imperative of becoming more resilient.^2^ Resilience is a term
 used to characterize the way in which systems and societies adapt to
-externally imposed change^3^. We understand resilience as a
+externally imposed change.^3^ We understand resilience as a
 transformative condition, which allows us not only to adapt but also to
 transform and re-invent our society towards a more balanced, more
 equitable way of living on Earth. Elinor Ostrom convincingly
 demonstrated that the commons could constitute a resilient alternative
-to the current way of governing the world’s resources^4^. She mainly
+to the current way of governing the world’s resources.^4^ She mainly
 studied traditional rural commons across different global contexts
 (exploring fisheries, forests, pastures) and has concluded on a number
 of principles on how commons can be successfully governed.
@@ -50,7 +50,7 @@ of principles on how commons can be successfully governed.
 
 Sheila Foster and Christian Iaione, two leading scholars in the emerging
 field of urban commons, have shown that the conditions are far more
-complex in cities^5^. Urban commons are ‘constructed commons’ that need
+complex in cities.^5^ Urban commons are ‘constructed commons’ that need
 a complex governance system. They involve not only commoners but also
 other urban actors who are external to the community of commoners. These
 actors are often in multiple interactions with a commons: public actors
@@ -77,7 +77,7 @@ assemble and mobilise, rather than segregate and exclude.
 ## R-Urban
 
 This was the motivation for atelier d’architecture autogérée when we
-engaged with urban commons^6^. We started in 2001 with Ecobox, which was
+engaged with urban commons.^6^ We started in 2001 with Ecobox, which was
 a community garden made out of recycled materials and a social-cultural
 center installed on a derelict site on Rue Pajol in Paris. We continued
 in 2006 with Passage 56 in the 20th *arrondissement*, which was a
@@ -89,13 +89,13 @@ commons, initiated by their stakeholders.
 
 In 2008, we imagined a strategy model called R-Urban as an open-source
 framework that enables residents to play an active role in changing the
-city while at the same time changing their way of living in it^7^. The
+city while at the same time changing their way of living in it.^7^ The
 ‘R’ in R-Urban stands for ‘resilience’, a term that we understood in
 relation with the capacity of communities not only to take risks, but
 also to transform themselves in the face of rapid global economic and
 environmental changes. ‘R’ also signifies ‘resourcefulnes’, situating
 resilience in a positive light and relating it to the agency of
-community empowerment^8^.
+community empowerment.^8^
 
 Within the R-Uban framework we wanted to create a network of bottom-up
 resilience in order to give more agency to citizens and grassroots
@@ -155,7 +155,7 @@ principles on which the strategy was based. From the beginning, we had
 an economic concern about the function of the building. Our aim was to
 host explicit economic activities (such as a market or café) at the same
 time as collective activities that have to do with informal social
-economies, such as exchange of skills and knowledge and bartering^9^.
+economies, such as exchange of skills and knowledge and bartering.^9^
 
 We also prototyped a number of ecological devices. For example, we
 constructed a water-filtration device that was self-built with
@@ -226,11 +226,11 @@ relationships that can be maintained and strenghtened into the future.
 The work of R-Urban has produced ecological repair in a region where
 much of the land was destitute. Non-human actors contributed to this
 work – plants, birds, insects, worms, bacteria – that somehow became
-part of the commoning community. ‘More-than-human communities’^10^
-emerged around the R-Urban eco-commons.
+part of the commoning community. ‘More-than-human communities’
+emerged around the R-Urban eco-commons.^10^
 
 Collective governance, as Elinor Ostrom demonstrated, is an essential
-issue for a commoning community^11^. Agreements are needed and a shared
+issue for a commoning community.^11^ Agreements are needed and a shared
 concerns must be expressed, not to destroy but to support community
 resources. In our case this was initiated through a series of gatherings
 and talks. Some were about decision-making, others were on very
@@ -254,7 +254,7 @@ She was ideologically against the project and she decided that the
 municipality would stop the partnership and reclaim the space occupied
 by the R-Urban hubs for new private developments. This demonstrated how
 much the process of commoning depends on politics. We were missing a
-Partner-State^12^. It turned out that that was critical for the
+Partner-State.^12^ It turned out that that was critical for the
 transition towards commons-based urban governance, to facilitate citizen
 initiatives and to guarantee sustainability beyond the whims of
 political cycles.
@@ -291,4 +291,4 @@ institutional support and diversified our alliances. There is now a
 charter, a development agency and a regional network. The R-Urban
 network now has seven hubs with more than 500 citizens actively involved
 in using and managing the hubs. We hope that R-Urban will further grow
-into a civic movement for resilient urban commons^13^.
+into a civic movement for resilient urban commons.^13^

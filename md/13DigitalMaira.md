@@ -6,9 +6,9 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Digital Commoning and the Fight for a Human-Centered Internet
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Mai Ishikawa Sutton
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -104,8 +104,7 @@ Violations to our privacy and freedom of expression are common in this
 internet of profit. However, I'd like to point to a few other harmful
 externalities that have also gotten recent attention.
 
-## \
-Worker Disempowerment
+## Worker Disempowerment
 
 As users are exploited, the workers who build and maintain internet
 services are too. The maltreatment of Uber drivers, Deliveroo riders and
@@ -139,11 +138,11 @@ all of these networked devices contain a wide range of toxic minerals
 that are extracted from the Earth. For instance, most rechargeable
 lithium ion batteries contain cobalt from the Congo, obtained by people
 [*under hazardous
-conditions*](https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc)^2^.
+conditions*](https://www.theguardian.com/global-development/2018/oct/12/phone-misery-children-congo-cobalt-mines-drc).^2^
 While some effort has been made by [*EU
-lawmakers*](http://www.europarl.europa.eu/news/en/headlines/world/20170314STO66681/conflict-minerals-the-bloody-truth-behind-your-smartphone)^3^
+lawmakers*](http://www.europarl.europa.eu/news/en/headlines/world/20170314STO66681/conflict-minerals-the-bloody-truth-behind-your-smartphone)
 to curb the human rights violations associated with the manufacturing of
-our internet-enabled products, it is still far from enough.
+our internet-enabled products, it is still far from enough.^3^
 
 > The cell phones we carry in our pockets, the laptops we use for work —
 > all of these networked devices contain a wide range of toxic minerals
@@ -152,8 +151,8 @@ our internet-enabled products, it is still far from enough.
 Meanwhile, companies do little to nothing to make devices last longer
 than a few years. Longer-lasting devices would lead to falling sales.
 Apple does everything in its power to make it [*more difficult to repair
-parts*](https://boingboing.net/2018/11/09/straight-to-landfill.html)^4^
-on their phones. These devices are treated as disposable, enabling
+parts*](https://boingboing.net/2018/11/09/straight-to-landfill.html)
+on their phones.^4^ These devices are treated as disposable, enabling
 widespread neglect of the human and environmental costs involved in
 building them.
 
@@ -162,23 +161,23 @@ building them.
 As is common practice among large corporate firms, tech companies are
 not shy about throwing around their resources to influence government
 policies. In the EU, they have quickly risen to become one of the [*most
-powerful industry blocs*](https://transparency.eu/uber-lobbyists/)^5^ to
+powerful industry blocs*](https://transparency.eu/uber-lobbyists/) to
 lobby their way through Brussels.
-[*Airbnb*](https://www.huffingtonpost.com/entry/airbnb-san-francisco-proposition-f_us_56366676e4b0c66bae5cc3b6)^6^
+[*Airbnb*](https://www.huffingtonpost.com/entry/airbnb-san-francisco-proposition-f_us_56366676e4b0c66bae5cc3b6)
 and
-[*Uber*](https://motherboard.vice.com/en_us/article/yp337g/why-uber-lost-austin)^7^
-are infamous examples. They spend millions of dollars at local city
+[*Uber*](https://motherboard.vice.com/en_us/article/yp337g/why-uber-lost-austin)
+are infamous examples.^5,6,7^ They spend millions of dollars at local city
 elections in the U.S. and [*the
-EU*](https://corporateeurope.org/pressreleases/2018/05/airbnb-lobbies-eu-fight-cities-attempts-protect-affordable-housing)^8^
+EU*](https://corporateeurope.org/pressreleases/2018/05/airbnb-lobbies-eu-fight-cities-attempts-protect-affordable-housing)
 to stop regulations that would adversely affect their business, even
-when the laws are designed for the public interest.
+when the laws are designed for the public interest.^8^
 
 Multinational technology companies are also actively undermining
 national governments through international law. Tech companies are
 [*influencing* *trade
-agreements*](http://globalnetpolicy.org/digital-trade-agenda/)^9^ to win
+agreements*](http://globalnetpolicy.org/digital-trade-agenda/) to win
 favorable terms, framing data as a commodity that must flow freely
-across borders. Even constraints on how data is collected and shared
+across borders.^9^ Even constraints on how data is collected and shared
 between companies, such as to protect user privacy, are framed by
 industry representatives as a trade barrier that must be stopped.
 
@@ -232,8 +231,8 @@ from managers and shareholders to its workers and users. The thinking is
 to democratize the governance over these platforms and expand their
 priorities to encompass a wider array of issues concerning the
 community. [*Tech Workers
-Coalition*](https://techworkerscoalition.org/)^10^ is a group organizing
-to improve the working conditions of those in the tech industry. They
+Coalition*](https://techworkerscoalition.org/) is a group organizing
+to improve the working conditions of those in the tech industry.^10^ They
 are active in working to hold their companies accountable for projects
 that undermine human rights or are otherwise ethically misguided.
 
@@ -247,8 +246,8 @@ extracting profit. It's about providing a service that's best for its
 user-owners, and that includes making it inexpensive for them to connect
 to the internet. A report published by the [*Internet Society and Centre
 for European Policy
-Studies*](https://www.internetsociety.org/resources/doc/2018/meeting-europes-connectivity-challenge/)^11^
-explored five case studies of community-owned networks across Europe. It
+Studies*](https://www.internetsociety.org/resources/doc/2018/meeting-europes-connectivity-challenge/)
+explored five case studies of community-owned networks across Europe.^11^ It
 concluded that such networks could help bridge the digital divide by
 providing affordable connections to people in remote areas.
 
@@ -257,8 +256,8 @@ providing affordable connections to people in remote areas.
 The source and method of mineral extraction to build our devices is an
 immense design challenge that must be grappled with. In the shorter term
 however, we must find ways to make technology less disposable.
-[*iFixit*](https://www.ifixit.com/)^12^ is an online community manual
-for people to share information and methods to repair broken things. It
+[*iFixit*](https://www.ifixit.com/) is an online community manual
+for people to share information and methods to repair broken things.^12^ It
 is a for-profit company that manages the website and sells tools and
 parts to repair common devices, such as iPhones. While it is for-profit,
 the iFixit platform is in many ways a commons, where the members write
@@ -271,14 +270,14 @@ particularly in the U.S. following the 2016 Presidential election.
 However, there are some older projects that have worked for several
 years to expand government transparency and open democratic
 deliberation.
-[*Public.Resource.Org*](https://public.resource.org/index.html)^13^
+[*Public.Resource.Org*](https://public.resource.org/index.html)
 digitizes and makes accessible works of the United States Federal
-Government which are not available online. Major projects conducted by
+Government which are not available online.^13^ Major projects conducted by
 the organization include the digitizing and sharing of large numbers of
 court records, U.S. government-produced video, and laws.
-[*Loomio*](https://www.opendemocracy.net/digitaliberties/marco-deseriis-richard-bartlett/loomio-and-problem-of-deliberation)^14^
+[*Loomio*](https://www.opendemocracy.net/digitaliberties/marco-deseriis-richard-bartlett/loomio-and-problem-of-deliberation)
 is used by hundreds of cooperatives and organizations worldwide,
-including within circles of Podemos in Spain. Essentially, it's a tool
+including within circles of Podemos in Spain.^14^ Essentially, it's a tool
 for collective deliberation and asynchronous decisionmaking. Loomio
 provides options for different types of voting, such as a poll, ranked
 choice, or saying yes or no to a given proposal.

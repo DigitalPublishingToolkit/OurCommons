@@ -17,6 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
+![](imgs/Ch_5_Food_commons.jpg)
+Reclaiming Food
+
 # 5. Territories of Commons in Europe: Niches of a Much Needed Transition
 
 by Jose Luis Vivero Pol
@@ -26,8 +29,8 @@ Policy (CAP, the European policy framework that exists today). That idea
 is gaining traction in more and more circles, from the
 [proposal](http://www.ipes-food.org/pages/CommonFoodPolicy) by the
 International Panel of Experts on Sustainable Food Systems – IPES
-Food^1^ to the European Economic and Social Committee. Hundreds of
-alternative food movements are already supporting the idea. A shift like
+Food to the European Economic and Social Committee. Hundreds of
+alternative food movements are already supporting the idea.^1^ A shift like
 this would solve the current policy incoherence between the different EU
 policies, such as trade, food, agriculture, environment, climate, health
 and social issues. Right now, these policies do not row in the same
@@ -64,9 +67,9 @@ food-related elements (like seeds, water, land, knowlegde) exclusively a
 matter of market transaction. The industrial food system values and
 governs food as a mere commodity and that is wrong. The meanings of food
 are more diverse than that, as I have proposed recently. In the
-multi-dimensional [framework](https://www.mdpi.com/2071-1050/9/3/442)^2^
+multi-dimensional [framework](https://www.mdpi.com/2071-1050/9/3/442)
 to understand the value of food to humans, there are economic and
-non-economic dimensions. Some can be valued in monetary terms, others
+non-economic dimensions.^2^ Some can be valued in monetary terms, others
 cannot. What is the price of a human right to be traded in the market?
 As food is essential to everyone’s survival, its market price could be
 priceless when someone is in desperate need. How can the cultural
@@ -93,25 +96,25 @@ see it as a commodity, it cannot be governed as a public good by a
 nation-state or as a commons by a community. Market rules prevail over
 other allocation mechanisms. However, if we consider food as a human
 right (which is currently [not the case in any EU member
-state](https://gh.bmj.com/content/1/1/e000040))^3^, a public good or a
+state](https://gh.bmj.com/content/1/1/e000040)), a public good or a
 commons, then we should broaden the debate and look at grassroots
-movements in Europe for inspiration. The rejection of the narrative of
+movements in Europe for inspiration.^3^ The rejection of the narrative of
 food-as-commodity and the adoption of
-[food-as-commons](https://www.routledge.com/Routledge-Handbook-of-Food-as-a-Commons/Vivero-Pol-Ferrando-Schutter-Mattei/p/book/9781138062627)^4^
+[food-as-commons](https://www.routledge.com/Routledge-Handbook-of-Food-as-a-Commons/Vivero-Pol-Ferrando-Schutter-Mattei/p/book/9781138062627)
 or food-as-human-right can be found in many new initiatives that are
 popping up in cities as well as in a myriad of customary practices that
-have successfully resisted the commoditization wave. Did you know for
+have successfully resisted the commoditization wave.^4^ Did you know for
 instance that [12 million hectares of land in
-Europe](https://blog.p2pfoundation.net/food-commons-europe/2017/02/01)^5^
-are still managed collectively as a commons? They include croplands,
+Europe](https://blog.p2pfoundation.net/food-commons-europe/2017/02/01)
+are still managed collectively as a commons?^5^ They include croplands,
 pasturelands, estuaries, coastlines, forests, mountains and rural roads
 in all EU countries. Common lands have nearly all vanished in European
 countries that actively encourage private or state appropriation of
 communal lands, such as Belgium and Germany. Some of these countries do
 not even have a legal status for common land. In France, Spain, Italy or
 Sweden however, there are still millions of hectares of [“territories of
-commons”](http://wiki.p2pfoundation.net/Territories_of_Commons_in_Europe)^6^
-that enable people to survive. Well-known examples are the oyster beds
+commons”](http://wiki.p2pfoundation.net/Territories_of_Commons_in_Europe)
+that enable people to survive.^6^ Well-known examples are the oyster beds
 in Arcachon Bay, to the Water Jury in Valencia, long-term rental
 contracts of agricultural lands owned by communities in Nonantola or the
 Everyman’s Rights that enable any Swede to collect berries, fish or camp
@@ -137,15 +140,15 @@ The commons require a collective search for new shared governance
 systems that work in different contexts. They represent political
 alternatives to the representative democratic systems that we now have
 in Europe: systems that are detached from citizens, [co-opted by
-corporations](https://corporateeurope.org/sites/default/files/captured-states-exec-summary-fr.pdf)^7^,
-focused on economic growth and the exploitation of common resources.
+corporations](https://corporateeurope.org/sites/default/files/captured-states-exec-summary-fr.pdf),
+focused on economic growth and the exploitation of common resources.^7^
 Therefore, it is not surprising that there is not a single mention of
 the commons, commons-based food systems or collective governance in the
 current CAP documents.
 
 And yet, as a word of caution: the territorial commons and the
 food-producing commons are not governing arrangements that are devoid of
-inequality, exclusion or discrimination of certain community members^8^.
+inequality, exclusion or discrimination of certain community members.^8^
 The commons, understood as governing mechanisms crafted by human
 collectivities, are embedded in the communities that have instituted
 them and in the formal states where those communities live. Therefore,
@@ -155,7 +158,7 @@ mechanisms devised to govern the commons are far from perfectly fair and
 flawless, although they are useful and resilient. Those mechanisms are
 complex combinations of formal and informal rules, customary norms and
 modern laws, being in many cases legally protected or at least tolerated
-by the state mechanisms where those commons are embedded^9^.
+by the state mechanisms where those commons are embedded.^9^
 
 New initiatives like Community Supported Agriculture farms (CSA) or Food
 Buying Groups are popping up everywhere, adopting a logic that goes
@@ -185,8 +188,8 @@ essential resource.
 If policy makers are ready to shift from an agricultural policy focus to
 a food-related policy focus, they should take into account [new and old
 food-producing
-commons](https://www.righttofoodandnutrition.org/commons-and-commoning-new-old-narrative-enrich-food-sovereignty-and-right-food-claims)^10^
-and partner with them. The “territories of commons”, rural and urban,
+commons](https://www.righttofoodandnutrition.org/commons-and-commoning-new-old-narrative-enrich-food-sovereignty-and-right-food-claims)
+and partner with them.^10^ The “territories of commons”, rural and urban,
 customary and contemporary, are innovative niches of transition full of
 tasty and healthy organic food, institutional novelties, digital
 technologies, participatory democracies and enviromental caring

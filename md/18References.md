@@ -530,6 +530,16 @@ Networks*, Internet Society, July 3rd, 2018:
 Bartlett, OpenDemocracy, December 2nd, 2016:
 <https://www.opendemocracy.net/en/digitaliberties/loomio-and-problem-of-deliberation/>
 
+
+##From Lab to Commons: Health as a Common Good, by Sophie Bloemen
+
+1\. *The People’s Prescription: Re-imagining Health Innovation to Deliver Public Value*, Mariana Mazzucato and others, UCL Institute for Innovation and Public Purpose, IIPP Policy Report, 2018-10: [stopaids.org.uk/wp/wp-content/uploads/2018/10/report.pdf](https://stopaids.org.uk/wp/wp-content/uploads/2018/10/report.pdf)
+
+2\. *From Lab to Commons: Shifting to a Public Interest Biomedical System*, Sophie Bloemen and David Hammerstein, Commons Network Policy Paper, 2018: [commonsnetwork.org/wp-content/uploads/2018/06/FromLabToCommons.pdf](http://commonsnetwork.org/wp-content/uploads/2018/06/FromLabToCommons.pdf)
+
+3\. Delinkage, a platform for the delinkage-movement, run by Knowledge Ecology International: [https://delinkage.org/] (http://delinkage.org)
+
+
 ## The Medicines Patent Pool: A Remedy for the Anti-Commons, by Ellen ’t Hoen
 
 1\. *An Essential Health Care Patent Pool*, powerpoint presentation by
@@ -615,7 +625,7 @@ and Drug Administration*, MPP press release, August 8th, 2017:
 news blog, April 5th 2016:
 <https://www.nature.com/news/what-new-gsk-patent-policy-means-for-the-developing-world-1.19695>
 
-## The Neglected Diseases and People Initiative, by Jean-Francois Allesandrini, Benjamin Coriat & Spring Gombe
+## Developing Innovative Drugs Through the Commons, by Benjamin Coriat and co-authors
 
 1\. Abecassis P., Coutinet N. (2018) *Économie du médicament, Repères*,
 La Découverte 716:127

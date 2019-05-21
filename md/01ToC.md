@@ -40,7 +40,7 @@ III\. *FOOD*
 Transition** - by Jose Luis Vivero Pol
 
 6\. **Social Circularity: Food-sharing Platforms Are Re-inventing Urban
-Solidarity**, by Thomas de Groot
+Solidarity** - by Thomas de Groot
 
 IV\. *CITIES*
 
@@ -66,18 +66,18 @@ by Mai Ishikawa Sutton
 
 VI\. *ACCESS TO MEDICINES*
 
-13\. **From Lab to Commons: Putting People’s Health First** - by Sophie
-Bloemen and David Hammerstein
+13\. **From Lab to Commons: Health as a Common Good** - by Sophie
+Bloemen
 
 14\. **The Medicines Patent Pool: A Remedy for the Anti-Commons** - by
 Ellen ‘t Hoen
 
-15\. **Developing Drugs through the Commons** - by Jean Francois
-Allesandrini, Benjamin Coriat & Spring Gombe
+15\. **Developing Drugs through the Commons** - by Jean-Francois
+Allesandrini and Benjamin Coriat
 
 VII *WHAT’S NEXT?*
 
-16\. **On the Commons and the Future of Europe** - with Michel Bauwens,
+16\. **On the Commons and Europe** - with Michel Bauwens,
 Silke Helfrich and David Bollier
 
 17\. **References and Resources**
