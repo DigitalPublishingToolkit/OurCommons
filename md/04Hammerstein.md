@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](imgs/Ch_6_Energy_Production.jpg)
+![](imgs/Ch_2_Energy_Production.jpg)
 Reclaiming Energy
 
 # 3. Commons-Based Renewable Energy in the Age of Climate Collapse

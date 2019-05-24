@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](imgs/Ch_7_Access_to_medicines.jpg)
+![](imgs/Ch_6_Access_to_medicines.jpg)
 Reclaiming Health Care
 
 # 13. From Lab to Commons: Health as a Common Good

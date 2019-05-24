@@ -78,8 +78,7 @@ Network, author and digital policy advocate
 **Alek Tarkowski** is head of Centrum Cyfrowe, co-founder of Communia
 and Public Lead at Creative Commons in Poland
 
-**Mercè M. Tarres** is an artist and the creator of the illustrations in
-this book
+**Mercè M. Tarrés** is an artist, member of the Guerrilla Media Collective, and the illustrator of this book
 
 **Jose Luis Vivero Pol** is regional analyst at the UN World Food
 Programme and research fellow at the University of Louvain

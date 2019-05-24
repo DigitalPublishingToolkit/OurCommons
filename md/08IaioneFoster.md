@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](imgs/Ch_3_Re_claiming_cities.jpg)
+![](imgs/Ch_4_Re_claiming_cities.jpg)
 Reclaiming Cities
 
 # 7. Ostrom in the City: Design Principles and Practices for the Urban Commons

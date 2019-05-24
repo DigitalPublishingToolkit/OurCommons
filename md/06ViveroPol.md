@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](imgs/Ch_5_Food_commons.jpg)
+![](imgs/Ch_3_Food_commons.jpg)
 Reclaiming Food
 
 # 5. Territories of Commons in Europe: Niches of a Much Needed Transition

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-![](imgs/Ch_4_Digital_commons.jpg)
+![](imgs/Ch_5_Digital_commons.jpg)
 Reclaiming Digital Commons
 
 # 10. A New Vision for a Shared Digital Europe

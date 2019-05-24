@@ -696,7 +696,7 @@ we harness them for the new?"
 
 
 
-![](imgs/Ch_6_Energy_Production.jpg)
+![](imgs/Ch_2_Energy_Production.jpg)
 Reclaiming Energy
 
 # 3. Commons-Based Renewable Energy in the Age of Climate Collapse
@@ -1199,7 +1199,7 @@ commoners to manage and share the resource.
 
 
 
-![](imgs/Ch_5_Food_commons.jpg)
+![](imgs/Ch_3_Food_commons.jpg)
 Reclaiming Food
 
 # 5. Territories of Commons in Europe: Niches of a Much Needed Transition
@@ -1612,7 +1612,7 @@ viable, socially desirable, and ecologically sustainable.”
 
 
 
-![](imgs/Ch_3_Re_claiming_cities.jpg)
+![](imgs/Ch_4_Re_claiming_cities.jpg)
 Reclaiming Cities
 
 # 7. Ostrom in the City: Design Principles and Practices for the Urban Commons
@@ -2484,7 +2484,7 @@ of The Guardian on January 24th of 2019
 
 
 
-![](imgs/Ch_4_Digital_commons.jpg)
+![](imgs/Ch_5_Digital_commons.jpg)
 Reclaiming Digital Commons
 
 # 10. A New Vision for a Shared Digital Europe
@@ -3314,7 +3314,7 @@ those in this book who are showing us the way.
 
 
 
-![](imgs/Ch_7_Access_to_medicines.jpg)
+![](imgs/Ch_6_Access_to_medicines.jpg)
 Reclaiming Health Care
 
 # 13. From Lab to Commons: Health as a Common Good
@@ -5273,8 +5273,7 @@ Network, author and digital policy advocate
 **Alek Tarkowski** is head of Centrum Cyfrowe, co-founder of Communia
 and Public Lead at Creative Commons in Poland
 
-**Mercè M. Tarres** is an artist and the creator of the illustrations in
-this book
+**Mercè M. Tarrés** is an artist, member of the Guerrilla Media Collective, and the illustrator of this book
 
 **Jose Luis Vivero Pol** is regional analyst at the UN World Food
 Programme and research fellow at the University of Louvain
